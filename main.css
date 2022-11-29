@@ -21,12 +21,8 @@
 
 
 
-
 #note{height:40px;display:flex;align-items:center;justify-content:center;background:#0183FF;color:#fff}#note .note_link{color:#fff}@media (max-width: 600px){#note{height:30px}}
 
 .button{padding:12.5px 0;color:#fff;text-decoration:none;display:block;text-align:center;width:250px;border-radius:10px;background:#0183FF}.button:hover{background:#1a87ee;color:#fff}@media (max-width: 1024px){.button{width:150px}}
-
-
-
 
 
