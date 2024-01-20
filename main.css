@@ -20,7 +20,7 @@
 
 .button{padding:12.5px 30px;color:#fff;text-decoration:none;display:block;text-align:center;border-radius:50px;background:#0183ff}.button:hover{background:#1a87ee;color:#fff}@media (max-width: 768px){.button{padding:8px 20px}}
 
-.note{height:40px;display:flex;align-items:center;justify-content:center;background:#0183ff;color:#fff}.note_link{color:#fff}.note_link:hover{color:#785a94}@media (max-width: 600px){.note{height:30px}.note_span{font-size:12px}.note_link{font-size:12px}}
+.note{height:40px;display:flex;align-items:center;justify-content:center;background:#0183ff;color:#fff}.note_link{color:#fff}.note_link:hover{text-decoration:none;color:#fff}@media (max-width: 600px){.note{height:30px}.note_span{font-size:12px}.note_link{font-size:12px}}
 
 .benchmark{max-width:100%}.reactivity-image{max-width:100%}
 
